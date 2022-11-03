@@ -1,0 +1,14 @@
+Untuk pemula
+
+pkg update && pkg upgrade
+pkg install git -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+termux-setup-storage
+cd /sdcard
+cd jo-v9
+npm start
+---------------------
+
+Untuk yg pernah pasang bot
+cd /sdcard/jo-v9 && npm start
